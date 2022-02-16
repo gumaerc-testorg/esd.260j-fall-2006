@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: This resource contains lecture slides on supply chain network design.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-260j-logistics-systems-fall-2006/a254df2b8afacda898c980df17d00a71_lect17.pdf
+file: /media/courses/esd-260j-logistics-systems-fall-2006/a254df2b8afacda898c980df17d00a71_lect17.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect17.pdf
 uid: a254df2b-8afa-cda8-98c9-80df17d00a71

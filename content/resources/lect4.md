@@ -2,8 +2,13 @@
 content_type: resource
 description: This resource contains lecture slides on demand forecasting and causal
   analysis.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/esd-260j-logistics-systems-fall-2006/f2396de71c17e2d45d69aa506eda27ce_lect4.pdf
+file: /media/courses/esd-260j-logistics-systems-fall-2006/f2396de71c17e2d45d69aa506eda27ce_lect4.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: lect4.pdf
 uid: f2396de7-1c17-e2d4-5d69-aa506eda27ce
