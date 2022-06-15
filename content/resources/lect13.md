@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture slides on probabilistic demand.
-file: /media/courses/esd-260j-logistics-systems-fall-2006/0f257fe6c8b83a24840d9b1017491950_lect13.pdf
+file: /courses/esd-260j-logistics-systems-fall-2006/0f257fe6c8b83a24840d9b1017491950_lect13.pdf
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
@@ -13,3 +13,5 @@ resourcetype: Document
 title: lect13.pdf
 uid: 0f257fe6-c8b8-3a24-840d-9b1017491950
 ---
+This resource contains lecture slides on probabilistic demand.
+

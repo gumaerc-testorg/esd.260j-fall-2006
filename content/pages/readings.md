@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides information on the required text, optional texts
+  that you may find useful for your library, and a schedule of lecture sessions with
+  associated readings.
 learning_resource_types:
 - Readings
 ocw_type: CourseSection

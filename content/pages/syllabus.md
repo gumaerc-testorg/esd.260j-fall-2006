@@ -1,5 +1,8 @@
 ---
 content_type: page
+description: This section provides the course description and information on course
+  objectives, prerequisites, course requirements and grading weights, the required
+  text, and optional texts.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
