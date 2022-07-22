@@ -5,6 +5,7 @@ file: /courses/esd-260j-logistics-systems-fall-2006/8fa05e64b7bda301f2606877afa8
 file_type: application/msword
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: team3data.xls
 uid: 8fa05e64-b7bd-a301-f260-6877afa83398
 ---
 This resource contains supporting data for a problem set.
-

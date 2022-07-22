@@ -6,6 +6,7 @@ file: /courses/esd-260j-logistics-systems-fall-2006/755a26f6aaebae8928294146a248
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect14.pdf
 uid: 755a26f6-aaeb-ae89-2829-4146a2484cd4
 ---
 This resource contains lecture slides on inventory management: special products ? fashion, style, and perishable goods.
-

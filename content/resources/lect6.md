@@ -6,6 +6,7 @@ file: /courses/esd-260j-logistics-systems-fall-2006/f68878913b1a3c3d6b800b2b63b6
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect6.pdf
 uid: f6887891-3b1a-3c3d-6b80-0b2b63b6c4cb
 ---
 This resource contains lecture slides on demand forecasting and connections to planning and management. (Courtesy of Larry Lapide. Used with permission.)
-

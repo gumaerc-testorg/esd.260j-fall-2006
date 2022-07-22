@@ -10,10 +10,10 @@ image_metadata:
   credit: ''
   image-alt: Diagram of alternative routes overlaid on a hub-and-spoke arrangement.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: esd-260jf06-th.jpg
 uid: b0dc80cd-0302-3bcc-119c-85beef257031
 ---
 New image Upload
-

@@ -6,6 +6,7 @@ file: /courses/esd-260j-logistics-systems-fall-2006/06ab054739b3882c4bda862570c7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect20.pdf
 uid: 06ab0547-39b3-882c-4bda-862570c7266b
 ---
 This resource contains lecture slides on transportation, fundamental concepts, strategic networks, and connection to inventory planning.
-

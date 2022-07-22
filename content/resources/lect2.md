@@ -6,6 +6,7 @@ file: /courses/esd-260j-logistics-systems-fall-2006/2454b7afcf6daeaba05aeb81e8b3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect2.pdf
 uid: 2454b7af-cf6d-aeab-a05a-eb81e8b3e671
 ---
 This resource contains lecture slides on supply chain fundamentals and segmentation analysis.
-

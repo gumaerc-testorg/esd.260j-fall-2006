@@ -6,6 +6,7 @@ file: /courses/esd-260j-logistics-systems-fall-2006/bc18dd1b2543535a61f826d00a8c
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: lect12.pdf
 uid: bc18dd1b-2543-535a-61f8-26d00a8c6e42
 ---
 This resource contains lecture slide on inventory management, backorder costs, implied costs, extensions, and A and C items.
-

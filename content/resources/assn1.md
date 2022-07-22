@@ -5,6 +5,7 @@ file: /courses/esd-260j-logistics-systems-fall-2006/2a8e95ad429bd21b329bb204816d
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: assn1.pdf
 uid: 2a8e95ad-429b-d21b-329b-b204816dd89c
 ---
 This resource contains a problem set.
-
