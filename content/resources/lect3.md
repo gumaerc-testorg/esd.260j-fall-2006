@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on demand forecasting and time
   series analysis.
 file: /courses/esd-260j-logistics-systems-fall-2006/107446a7d15453bf194f05a4c6098c93_lect3.pdf
+file_size: 253175
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
