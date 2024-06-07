@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on demand forecasting and connections
   to planning and management. (Courtesy of Larry Lapide. Used with permission.)
 file: /courses/esd-260j-logistics-systems-fall-2006/f68878913b1a3c3d6b800b2b63b6c4cb_lect6.pdf
+file_size: 592116
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes

@@ -2,6 +2,7 @@
 content_type: resource
 description: New image Upload
 file: /courses/esd-260j-logistics-systems-fall-2006/b0dc80cd03023bcc119c85beef257031_esd-260jf06-th.jpg
+file_size: 9990
 file_type: image/jpeg
 image_metadata:
   caption: 'The Ses #25 lecture on Transportation Management discusses various arrangements

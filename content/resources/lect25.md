@@ -3,6 +3,7 @@ content_type: resource
 description: This resource contains lecture slides on transportation, carrier operations,
   and yield management.
 file: /courses/esd-260j-logistics-systems-fall-2006/421e474d22fae64f415aea445a34a254_lect25.pdf
+file_size: 347499
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
