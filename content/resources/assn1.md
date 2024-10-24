@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a problem set.
-file: /courses/esd-260j-logistics-systems-fall-2006/2a8e95ad429bd21b329bb204816dd89c_assn1.pdf
+file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/2a8e95ad429bd21b329bb204816dd89c_assn1.pdf
 file_size: 44980
 file_type: application/pdf
 learning_resource_types:
