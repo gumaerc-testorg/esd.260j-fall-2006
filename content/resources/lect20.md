@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on transportation, fundamental
   concepts, strategic networks, and connection to inventory planning.
-file: /courses/esd-260j-logistics-systems-fall-2006/06ab054739b3882c4bda862570c7266b_lect20.pdf
+file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/06ab054739b3882c4bda862570c7266b_lect20.pdf
 file_size: 1055402
 file_type: application/pdf
 learning_resource_types:

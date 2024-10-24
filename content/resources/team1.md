@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains a team assignment.
-file: /courses/esd-260j-logistics-systems-fall-2006/c91347f869f68e1383e5f6930aed5e22_team1.pdf
+file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/c91347f869f68e1383e5f6930aed5e22_team1.pdf
 file_size: 49101
 file_type: application/pdf
 learning_resource_types:
