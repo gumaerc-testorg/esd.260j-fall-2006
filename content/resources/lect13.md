@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains lecture slides on probabilistic demand.
-file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/0f257fe6c8b83a24840d9b1017491950_lect13.pdf
+file: /courses/esd-260j-logistics-systems-fall-2006/0f257fe6c8b83a24840d9b1017491950_lect13.pdf
 file_size: 190673
 file_type: application/pdf
 learning_resource_types:

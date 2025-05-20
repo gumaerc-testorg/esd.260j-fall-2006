@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains supporting data for a problem set.
-file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/8fa05e64b7bda301f2606877afa83398_team3data.xls
+file: /courses/esd-260j-logistics-systems-fall-2006/8fa05e64b7bda301f2606877afa83398_team3data.xls
 file_size: 730624
 file_type: application/msword
 learning_resource_types:

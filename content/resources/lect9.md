@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on inventory management and time-varying
   demand (fixed horizon).
-file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/60025416518c3c513f34362c16d2f6ac_lect9.pdf
+file: /courses/esd-260j-logistics-systems-fall-2006/60025416518c3c513f34362c16d2f6ac_lect9.pdf
 file_size: 235552
 file_type: application/pdf
 learning_resource_types:
