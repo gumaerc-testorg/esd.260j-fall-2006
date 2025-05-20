@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on demand forecasting and new product
   forecasting. (Courtesy of Mahender Singh. Used with permission.)
-file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/0be27a467617b4a83c6ba512933d7e5d_lect5.pdf
+file: /courses/esd-260j-logistics-systems-fall-2006/0be27a467617b4a83c6ba512933d7e5d_lect5.pdf
 file_size: 173433
 file_type: application/pdf
 learning_resource_types:
