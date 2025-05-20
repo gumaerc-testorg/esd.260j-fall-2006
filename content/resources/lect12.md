@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slide on inventory management, backorder
   costs, implied costs, extensions, and A and C items.
-file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/bc18dd1b2543535a61f826d00a8c6e42_lect12.pdf
+file: /courses/esd-260j-logistics-systems-fall-2006/bc18dd1b2543535a61f826d00a8c6e42_lect12.pdf
 file_size: 175659
 file_type: application/pdf
 learning_resource_types:

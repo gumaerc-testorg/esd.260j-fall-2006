@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on inventory management, probabilistic
   demand, and safety stock.
-file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/8b53c45fd26ffff706d815131e8d177e_lect11.pdf
+file: /courses/esd-260j-logistics-systems-fall-2006/8b53c45fd26ffff706d815131e8d177e_lect11.pdf
 file_size: 360976
 file_type: application/pdf
 learning_resource_types:

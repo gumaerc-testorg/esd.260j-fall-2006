@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on shipper perspective ? strategies
   and approaches for design and management.
-file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/80e2e998f1048e857b995376b03c8a13_lect23.pdf
+file: /courses/esd-260j-logistics-systems-fall-2006/80e2e998f1048e857b995376b03c8a13_lect23.pdf
 file_size: 371702
 file_type: application/pdf
 learning_resource_types:
