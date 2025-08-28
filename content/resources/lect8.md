@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains lecture slides on inventory management, EOQ extensions,
   discounts, exchange curves, etc.
-file: /courses/esd-260j-logistics-systems-fall-2006/4851a27cb396c065d7b7c0fafa50d039_lect8.pdf
+file: /ol-ocw-studio-app/courses/esd-260j-logistics-systems-fall-2006/4851a27cb396c065d7b7c0fafa50d039_lect8.pdf
 file_size: 253489
 file_type: application/pdf
 learning_resource_types:
